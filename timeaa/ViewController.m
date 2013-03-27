@@ -29,6 +29,8 @@
     
     int m_aa = 0;
     
+    int cc = m_aa;
+    
 }
 
 @end
