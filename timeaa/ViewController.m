@@ -24,6 +24,11 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    
+    
+    
+    int m_aa = 0;
+    
 }
 
 @end
