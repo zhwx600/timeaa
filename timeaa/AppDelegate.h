@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
 //  timeaa
-//fdfsdfsdfsdfsfsdfsdf
-//  Created by apple on 13-3-27.
+//fdfsdfsdfsdfsfsdfsdfsf
+//  Created by apple on 13-3-27. 0000909090
 //  Copyright (c) 2013年 apple. All rights reserved.
 //
 
