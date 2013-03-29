@@ -31,8 +31,11 @@
     
     int cc = m_aa;
     
-    int cc = m_aa;
+    int ccasdfasdfasdf = m_aa;
     int  aaaa = cc;
+    
+    
+    bool rr = true;
 }
 
 @end
