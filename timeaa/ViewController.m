@@ -32,7 +32,7 @@
     int cc = m_aa;
     
     int cc = m_aa;
-    
+    int  aaaa = cc;
 }
 
 @end
