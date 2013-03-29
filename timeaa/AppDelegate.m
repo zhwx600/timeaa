@@ -12,8 +12,8 @@
 
 @implementation AppDelegate
 
-- (void)dealloc
-{
+- (void)deallocasdfsad
+{asdfsadf
     [_window release];
     [_viewController release];
     [super dealloc];
